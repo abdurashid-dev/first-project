@@ -1,0 +1,27 @@
+.col-sm-8{
+    margin: 30px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.col{
+    margin-top: 20px;
+
+}
+#product{
+    height: max-content;
+}
+.bt {
+    outline: none;
+    border: none;
+    width: 150px;
+    height: 30px;
+    font-weight: 800;
+    color: white;
+    background-image: linear-gradient(90deg, rgb(0, 247, 255), rgb(235, 21, 224));
+    border-radius: 10px;
+}
+.bty {
+    border: none;
+    background-image: linear-gradient(90deg, rgb(0, 247, 255), rgb(235, 21, 224));
+    color: white;
+}
